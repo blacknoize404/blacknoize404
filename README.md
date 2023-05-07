@@ -1,7 +1,8 @@
 👋 Hi, I’m @blacknoize404
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning GTK interface for multiplatform development
-
+- 
+![Blacknoize404's Codewars stats](https://www.codewars.com/users/blacknoize404/badges/large)
 
 ![Blacknoize404's github stats](https://github-readme-stats.vercel.app/api?username=blacknoize404&theme=gruvbox&show_icons=true)
 
