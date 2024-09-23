@@ -3,7 +3,9 @@
   
 ![Blacknoize404's Codewars stats](https://www.codewars.com/users/blacknoize404/badges/large)
 
+<!---
 ![Blacknoize404's github stats](https://github-readme-stats.vercel.app/api?username=blacknoize404&theme=gruvbox&show_icons=true)
+--->
 
 ![Blacknoize404's language use stats](https://github-readme-stats.vercel.app/api/top-langs/?username=blacknoize404&layout=compact)
 
