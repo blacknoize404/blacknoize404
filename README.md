@@ -1,12 +1,12 @@
 # 👋 Hi, I'm @blacknoize404
 
 ## 🚀 About Me
-- 🎓 Finalist in the **ICPC Caribbean** for *two consecutive years*.
+- 🎓 Finalist in the **ICPC Caribbean**.
 - 🤖 Passionate about **Machine Learning** and competitive programming.
 - 📌 Always learning and exploring new technologies.
 
 ## 🏆 Achievements
-- 🏅 ICPC Caribbean finalist (2022, 2023).
+- 🏅 ICPC Caribbean finalist (2023, 2024).
 - 💡 Kyu 4 on **Codewars**.
 - 💡 Father of Mi Cuenta Nauta.
 
