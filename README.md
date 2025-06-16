@@ -12,7 +12,7 @@
 
 ## 💻 Skills & Technologies
 - 🏗 Programming Languages: **Python, C++, C#, Java, JavaScript**.
-- 🛠 Tools & Frameworks: **TensorFlow, PyTorch, OpenCV**.
+- 🛠 Tools & Frameworks: **TensorFlow, PyTorch, Seaborn, Pandas, PIL, Numpy, OpenCV, Django, WPF**.
 - 📊 Areas of Interest: **Data Science, AI, Competitive Programming**.
 
 ## 🔗 Codewars & GitHub Stats
