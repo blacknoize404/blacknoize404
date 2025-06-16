@@ -1,17 +1,23 @@
-👋 Hi, I’m @blacknoize404
+# 👋 Hi, I'm @blacknoize404
 
-👀 I’m interested in Machine Learning
-  
-![Blacknoize404's Codewars stats](https://www.codewars.com/users/blacknoize404/badges/large)
+## 🚀 About Me
+- 🎓 Finalist in the **ICPC Caribbean** for *two consecutive years*.
+- 🤖 Passionate about **Machine Learning** and competitive programming.
+- 📌 Always learning and exploring new technologies.
 
-<!---
-![Blacknoize404's github stats](https://github-readme-stats.vercel.app/api?username=blacknoize404&theme=gruvbox&show_icons=true)
-![Blacknoize404's language use stats](https://github-readme-stats.vercel.app/api/top-langs/?username=blacknoize404&layout=compact)
---->
+## 🏆 Achievements
+- 🏅 ICPC Caribbean finalist (2022, 2023).
+- 💡 Kyu 4 on **Codewars**.
+- 💡 Father of Mi Cuenta Nauta.
 
+## 💻 Skills & Technologies
+- 🏗 Programming Languages: **Python, C++, C#, Java, JavaScript**.
+- 🛠 Tools & Frameworks: **TensorFlow, PyTorch, OpenCV**.
+- 📊 Areas of Interest: **Data Science, AI, Competitive Programming**.
 
+## 🔗 Codewars & GitHub Stats
+[![Codewars Profile](https://www.codewars.com/users/blacknoize404/badges/large)](https://www.codewars.com/users/blacknoize404)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blacknoize404&show_icons=true)](https://github.com/blacknoize404)
 
-<!---
-blacknoize404/blacknoize404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 📫 Contact
+- ✉️ Reach me at: **blacknoize404@gmail.com**
