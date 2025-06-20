@@ -10,6 +10,10 @@
 - 💡 Kyu 4 on **Codewars**.
 - 💡 Father of Mi Cuenta Nauta.
 
+## 🧱 Projects
+- 🔢 JavaMath (A propetary math library for advanced math, incluiding Lineal Algebra, Vectorial Math, Diferential and Integral equation solver Step-by-step).
+- 🗓️ Schedu (A multiplataform app for School Schedule Manager and personal agenda with automatic updates from the cloud).
+
 ## 💻 Skills & Technologies
 - 🏗 Programming Languages: **Python, C++, C#, Java, JavaScript**.
 - 🛠 Tools & Frameworks: **TensorFlow, PyTorch, Seaborn, Pandas, PIL, Numpy, OpenCV, Django, WPF, JavaFX, Godot**.
