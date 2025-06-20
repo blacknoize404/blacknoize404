@@ -19,7 +19,7 @@
 ## 💻 Skills & Technologies
 - 🏗 Programming Languages: **Python, C++, C#, Java, JavaScript**.
 - 🛠 Tools & Frameworks: **TensorFlow, PyTorch, Seaborn, Pandas, PIL, Numpy, OpenCV, Django, WPF, JavaFX, Godot**.
-- 📊 Areas of Interest: **Data Science, AI, Competitive Programming**.
+- 📊 Areas of Interest: **Data Science, AI, Competitive Programming, Web Dev**.
 
 ## 🔗 Stats
 [![Codewars Profile](https://www.codewars.com/users/blacknoize404/badges/large)](https://www.codewars.com/users/blacknoize404)
