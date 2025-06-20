@@ -15,6 +15,9 @@
 - 🛠 Tools & Frameworks: **TensorFlow, PyTorch, Seaborn, Pandas, PIL, Numpy, OpenCV, Django, WPF, JavaFX, Godot**.
 - 📊 Areas of Interest: **Data Science, AI, Competitive Programming**.
 
+## 🤝 Collabs
+- ✨ Rembg (A tool to remove images background using generative AI).
+
 ## 🔗 Stats
 [![Codewars Profile](https://www.codewars.com/users/blacknoize404/badges/large)](https://www.codewars.com/users/blacknoize404)
 <!---
