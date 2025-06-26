@@ -9,7 +9,7 @@
 - 🗓️ Schedu (A multiplataform app for School Schedule Manager and personal agenda with automatic updates from the cloud).
 - 💾 PersistenceUtils (A Java module to simplify data persistence through serialization and deserialization of Serializable objects).
 - 🌐 Dímelo (A web platform designed to improve the visibility and accessibility of local businesses in Cuba, bridging the gap between business owners and customers through digitalization).
-- 📡[Mi Cuenta Nauta](micuentanauta.github.io) (A Windows application designed to simplify interactions with ETECSA servers, offering a secure, intuitive, and efficient way to manage internet sessions, with features like session monitoring, themes, and minimal mobile data usage).
+- 📡[Mi Cuenta Nauta](https://micuentanauta.github.io) (A Windows application designed to simplify interactions with ETECSA servers, offering a secure, intuitive, and efficient way to manage internet sessions, with features like session monitoring, themes, and minimal mobile data usage).
 
 ## 🤝 Collabs
 - ✨ Rembg (A tool to remove images background using generative AI).
