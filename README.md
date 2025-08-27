@@ -24,6 +24,9 @@
 - 🛠 Tools & Frameworks: **TensorFlow, PyTorch, Seaborn, Pandas, PIL, Numpy, OpenCV, Django, WPF, JavaFX, Godot**.
 - 📊 Areas of Interest: **Data Science, AI, Competitive Programming, Web Dev**.
 
+![](https://raw.githubusercontent.com/blacknoize404/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/blacknoize404/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
 ## 🔗 Stats
 [![Codewars Profile](https://www.codewars.com/users/blacknoize404/badges/large)](https://www.codewars.com/users/blacknoize404)
 <!---
