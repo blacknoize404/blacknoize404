@@ -10,6 +10,7 @@
 - 💾 [PersistenceUtils](https://github.com/blacknoize404/PersistenceUtils) (A Java module to simplify data persistence through serialization and deserialization of Serializable objects).
 - 🌐 Dímelo (A web platform designed to improve the visibility and accessibility of local businesses in Cuba, bridging the gap between business owners and customers through digitalization).
 - 📡[Mi Cuenta Nauta](https://micuentanauta.github.io) (A Windows application designed to simplify interactions with ETECSA servers, offering a secure, intuitive, and efficient way to manage internet sessions, with features like session monitoring, themes, and minimal mobile data usage).
+- [Godot Direct Audio Input Recorder and Wav 24 Bits Tools](https://github.com/blacknoize404/Godot-Direct-Audio-Input-Recorder-and-WAV-24-bits-Tools) (Solves lag and mic garbling issues by utilizing Godot 4.6's low-level audio input buffer access. Provides stable, high-fidelity 24-bit recording and streaming playback).
 
 ## 🤝 Collabs
 - ✨ Rembg (A tool to remove images background using generative AI).
