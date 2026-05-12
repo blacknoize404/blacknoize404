@@ -37,4 +37,4 @@
  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=blacknoize404&show_icons=true)](https://github.com/blacknoize404)
 --->
 ## 📫 Contact
-- ✉️ Reach me at: **blacknoize404@gmail.com**
+✉️ Reach me at: **blacknoize404@gmail.com**
