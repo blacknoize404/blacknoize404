@@ -17,6 +17,7 @@
 
 ## 🏆 Achievements
 - 🏅 ICPC Caribbean finalist (2023, 2024).
+- 🥇 Young Researcher National Award from CITMA (Ministry of Science, Technology and Environment of Cuba).
 - 💡 Kyu 4 on **Codewars**.
 - 💡 Father of Mi Cuenta Nauta.
 
