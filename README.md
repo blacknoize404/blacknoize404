@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Competitive+Programmer+(ICPC);Backend+Architect+%7C+Java+%2F+Python" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F5C15A&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Competitive+Programmer+(ICPC);Backend+Architect+%7C+Java+%2F+Python" alt="Typing SVG" />
 </p>
 
 ## 🚀 Sobre Mí
