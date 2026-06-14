@@ -88,8 +88,8 @@ Es un recurso excelente para ver conceptos de redes y programación de nivel uni
 
 <!-- PANEL DE ESTADÍSTICAS ESTILIZADO GENERADO -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/blacknoize404/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="blacknoize404 Advanced Stats Dashboard" width="30%">
-  <img src="https://raw.githubusercontent.com/blacknoize404/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="blacknoize404 Advanced Stats Dashboard" width="30%">
+  <img src="https://raw.githubusercontent.com/blacknoize404/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="blacknoize404 Advanced Stats Dashboard" width="40%">
+  <img src="https://raw.githubusercontent.com/blacknoize404/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="blacknoize404 Advanced Stats Dashboard" width="40%">
 </p>
 
 <p align="center">
