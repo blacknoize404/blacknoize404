@@ -16,15 +16,6 @@
 
 ## 🧱 Proyectos Destacados
 
-<!-- SHOWCASE DE PROYECTOS GENERADO -->
-<p align="center">
-  <img src="image_2.png" alt="MathUtils and MiniJWS Showcase" width="80%">
-</p>
-
-<details open>
-<summary><b>🛠️ Ver Detalles de Proyectos</b></summary>
-<br>
-
 *   🗣️ **Patriae**: El primer proyecto pionero enfocado en la reproducción del dialecto cubano mediante modelos de Procesamiento de Lenguaje Natural y tecnologías de síntesis de voz (*Text-to-Speech*), respaldado por el entrenamiento con corpus de datos a gran escala.
 *   🔢 **[MathUtils](https://github.com/blacknoize404/MathUtils)**: Una biblioteca de Java para computación matemática avanzada. Trata expresiones algebraicas como objetos de primera clase, álgebra lineal (matrices/vectores 2D/3D), geometría, estadística y árboles de expresiones evaluables.
 *   🌐 **[MiniJWS](https://github.com/blacknoize404/MiniJWS)**: Un framework de servidor HTTP ligero y modular construido desde cero en Java 25. Incluye enrutamiento, middleware, servicio de archivos estáticos y extracción de metadatos de APKs de Android.
@@ -35,7 +26,6 @@
 *   🎙️ **[Godot Audio Tools](https://github.com/blacknoize404/Godot-Direct-Audio-Input-Recorder-and-WAV-24-bits-Tools)**: Soluciona problemas de lag en Godot 4.6 accediendo al buffer de audio de bajo nivel para grabación estable de 24 bits.
 *   💾 **[PersistenceUtils](https://github.com/blacknoize404/PersistenceUtils)**: Módulo Java para simplificar la persistencia de datos mediante serialización avanzada.
 *   ✨ **Colabs / Contribuciones**: Rembg (IA Generativa para eliminar fondos).
-</details>
 
 ## 📚 Recursos Académicos y de Aprendizaje
 
@@ -96,7 +86,7 @@ Es un recurso excelente para ver conceptos de redes y programación de nivel uni
   <a href="https://www.codewars.com/users/blacknoize404">
     <img src="https://www.codewars.com/users/blacknoize404/badges/large" alt="Codewars Profile">
   </a>
-  <a align="center" href="https://user-badge.committers.top/cuba_private/blacknoize404.svg">
+  <a align="center" href="https://user-badge.committers.top/cuba_private/">
     <img src="https://user-badge.committers.top/cuba_private/blacknoize404.svg" alt="committers.top badge">
   </a>
 </p>
