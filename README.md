@@ -94,6 +94,9 @@ Es un recurso excelente para ver conceptos de redes y programación de nivel uni
 ## 📫 Contacto
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/barnes404/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Barnés">
+  </a>
   <a href="mailto:blacknoize404@gmail.com">
     <img src="https://img.shields.io/badge/Principal-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Principal">
   </a>
