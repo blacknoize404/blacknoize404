@@ -1,7 +1,3 @@
-# Servicios
-
-Tres pilares: investigación en inteligencia artificial, ingeniería de software y diseño gráfico.
-
 ## 01 — Inteligencia Artificial: PLN y síntesis de voz
 
 Investigación aplicada en procesamiento de lenguaje natural y texto a voz: reproducción de dialectos regionales, curación de corpus y pipelines de entrenamiento acústico de extremo a extremo.
@@ -12,7 +8,7 @@ Investigación aplicada en procesamiento de lenguaje natural y texto a voz: repr
 
 ## 02 — Ingeniería: Software y sistemas
 
-Desarrollo backend y frameworks desde cero: servicios web, APIs e infraestructura modular, con la optimización como constante y aplicaciones de escritorio multiplataforma.
+Desarrollo backend y frontend y sofware desde cero: servicios web, APIs e infraestructura modular, con la optimización como constante y aplicaciones de escritorio multiplataforma.
 
 - Java, C#, Python y Django
 - Frameworks y servidores HTTP propios
