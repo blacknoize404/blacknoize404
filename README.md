@@ -9,29 +9,29 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F5C15A&center=true&vCenter=true&width=600&lines=Machine+Learning+Enthusiast;Competitive+Programmer+(ICPC);Backend+Architect+%7C+Java+%2F+Python" alt="Typing SVG" />
 </p>
 
-## 🚀 Sobre Mí
+## Sobre Mí
 
-*   🤖 Me apasiona el **Machine Learning**, la visión por computadora y resolver problemas complejos mediante algoritmos eficientes.
-*   📌 Siempre explorando nuevas tecnologías, desde la optimización de bajo nivel hasta la IA generativa.
+*   Me apasiona el **Machine Learning**, la visión por computadora y resolver problemas complejos mediante algoritmos eficientes.
+*   Siempre explorando nuevas tecnologías, desde la optimización de bajo nivel hasta la IA generativa.
 
-## 🧱 Proyectos Destacados
+## Proyectos Destacados
 
-*   🗣️ **Patriae**: El primer proyecto pionero enfocado en la reproducción del dialecto cubano mediante modelos de Procesamiento de Lenguaje Natural y tecnologías de síntesis de voz (*Text-to-Speech*), respaldado por el entrenamiento con corpus de datos a gran escala.
-*   🔢 **[MathUtils](https://github.com/blacknoize404/MathUtils)**: Una biblioteca de Java para computación matemática avanzada. Trata expresiones algebraicas como objetos de primera clase, álgebra lineal (matrices/vectores 2D/3D), geometría, estadística y árboles de expresiones evaluables.
-*   🌐 **[MiniJWS](https://github.com/blacknoize404/MiniJWS)**: Un framework de servidor HTTP ligero y modular construido desde cero en Java 25. Incluye enrutamiento, middleware, servicio de archivos estáticos y extracción de metadatos de APKs de Android.
-*   🏓 **Pingmaster**: Aplicación multiplataforma desarrollada en Java utilizando JavaFX para monitorizar el estado de servidores remotos. Genera notificaciones en tiempo real cuando el estado de acceso cambia o si se cae la conexión.
-*   🗓️ **Schedu**: Aplicación multiplataforma para la gestión de horarios escolares y agenda personal, equipada con actualizaciones automáticas desde la nube.
-*   🌐 **Dímelo**: Plataforma web diseñada para mejorar la visibilidad y accesibilidad de los negocios locales, cerrando la brecha entre propietarios y clientes mediante la digitalización.
-*   📡 **[Mi Cuenta Nauta](https://micuentanauta.github.io)**: Aplicación para Windows que simplifica la interacción con los servidores de ETECSA, gestionando sesiones de internet de forma segura e intuitiva.
-*   🎙️ **[Godot Audio Tools](https://github.com/blacknoize404/Godot-Direct-Audio-Input-Recorder-and-WAV-24-bits-Tools)**: Soluciona problemas de lag en Godot 4.6 accediendo al buffer de audio de bajo nivel para grabación estable de 24 bits.
-*   💾 **[PersistenceUtils](https://github.com/blacknoize404/PersistenceUtils)**: Módulo Java para simplificar la persistencia de datos mediante serialización avanzada.
-*   ✨ **Colabs / Contribuciones**: Rembg (IA Generativa para eliminar fondos).
+*   **Patriae**: El primer proyecto pionero enfocado en la reproducción del dialecto cubano mediante modelos de Procesamiento de Lenguaje Natural y tecnologías de síntesis de voz (*Text-to-Speech*), respaldado por el entrenamiento con corpus de datos a gran escala.
+*   **[MathUtils](https://github.com/blacknoize404/MathUtils)**: Una biblioteca de Java para computación matemática avanzada. Trata expresiones algebraicas como objetos de primera clase, álgebra lineal (matrices/vectores 2D/3D), geometría, estadística y árboles de expresiones evaluables.
+*   **[MiniJWS](https://github.com/blacknoize404/MiniJWS)**: Un framework de servidor HTTP ligero y modular construido desde cero en Java 25. Incluye enrutamiento, middleware, servicio de archivos estáticos y extracción de metadatos de APKs de Android.
+*   **Pingmaster**: Aplicación multiplataforma desarrollada en Java utilizando JavaFX para monitorizar el estado de servidores remotos. Genera notificaciones en tiempo real cuando el estado de acceso cambia o si se cae la conexión.
+*   **Schedu**: Aplicación multiplataforma para la gestión de horarios escolares y agenda personal, equipada con actualizaciones automáticas desde la nube.
+*   **Dímelo**: Plataforma web diseñada para mejorar la visibilidad y accesibilidad de los negocios locales, cerrando la brecha entre propietarios y clientes mediante la digitalización.
+*   **[Mi Cuenta Nauta](https://micuentanauta.github.io)**: Aplicación para Windows que simplifica la interacción con los servidores de ETECSA, gestionando sesiones de internet de forma segura e intuitiva.
+*   **[Godot Audio Tools](https://github.com/blacknoize404/Godot-Direct-Audio-Input-Recorder-and-WAV-24-bits-Tools)**: Soluciona problemas de lag en Godot 4.6 accediendo al buffer de audio de bajo nivel para grabación estable de 24 bits.
+*   **[PersistenceUtils](https://github.com/blacknoize404/PersistenceUtils)**: Módulo Java para simplificar la persistencia de datos mediante serialización avanzada.
+*   **Colabs / Contribuciones**: Rembg (IA Generativa para eliminar fondos).
 
-## 📚 Recursos Académicos y de Aprendizaje
+## Recursos Académicos y de Aprendizaje
 
 Esta sección está dedicada a compartir el conocimiento técnico detallado detrás de mis desarrollos principales, ideal para estudiantes y desarrolladores curiosos.
 
-### 📖 **[Aprende Protocolo HTTP y Arquitectura de Software con MiniJWS](https://github.com/blacknoize404/MiniJWS/tree/master/docs)**
+### **[Aprende Protocolo HTTP y Arquitectura de Software con MiniJWS](https://github.com/blacknoize404/MiniJWS/tree/master/docs)**
 
 MiniJWS, a parte de servir como un servidor funcional, fue construido como una iniciativa educativa. En su documentación, los principiantes pueden aprender:
 
@@ -42,7 +42,7 @@ MiniJWS, a parte de servir como un servidor funcional, fue construido como una i
 
 Es un recurso excelente para ver conceptos de redes y programación de nivel universitario aplicados en un proyecto del mundo real.
 
-## 🏆 Logros
+## Logros
 
 <p align="center">
   <img src="https://img.shields.io/badge/ICPC%20Caribbean%20Finalist-2023%20%7C%202024-orange?style=for-the-badge&logo=codenewbie" alt="ICPC Badge">
@@ -50,7 +50,7 @@ Es un recurso excelente para ver conceptos de redes y programación de nivel uni
   <img src="https://img.shields.io/badge/Codewars-Kyu%204-red?style=for-the-badge&logo=codewars" alt="Codewars Badge">
 </p>
 
-## 💻 Habilidades & Tecnologías
+## Habilidades & Tecnologías
 
 <p align="center">
   <!-- Lenguajes -->
@@ -74,7 +74,7 @@ Es un recurso excelente para ver conceptos de redes y programación de nivel uni
   <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white" alt="Godot">
 </p>
 
-## 📊 Estadísticas
+## Estadísticas
 
 <!-- PANEL DE ESTADÍSTICAS ESTILIZADO GENERADO -->
 <p align="center">
@@ -91,7 +91,7 @@ Es un recurso excelente para ver conceptos de redes y programación de nivel uni
   </a>
 </p>
 
-## 📫 Contacto
+## Contacto
 
 <p align="center">
   <a href="https://www.linkedin.com/in/barnes404/">
