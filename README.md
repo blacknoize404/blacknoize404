@@ -17,8 +17,10 @@
 ## Proyectos Destacados
 
 *   **Patriae**: El primer proyecto pionero enfocado en la reproducción del dialecto cubano mediante modelos de Procesamiento de Lenguaje Natural y tecnologías de síntesis de voz (*Text-to-Speech*), respaldado por el entrenamiento con corpus de datos a gran escala.
-*   **[MathUtils](https://github.com/blacknoize404/MathUtils)**: Una biblioteca de Java para computación matemática avanzada. Trata expresiones algebraicas como objetos de primera clase, álgebra lineal (matrices/vectores 2D/3D), geometría, estadística y árboles de expresiones evaluables.
+*   **[MathUtils Studio](https://github.com/blacknoize404/MathUtils-Studio)**: Aplicación de escritorio de matemáticas paso a paso (Windows y Linux). Explica derivadas, límites e integrales regla por regla mostrando el árbol de expresión de cada paso, resuelve álgebra con métodos seleccionables e incluye paneles para matrices, números complejos, estadística y EDOs.
+*   **[BI.MathUtils](https://github.com/blacknoize404/BI.MathUtils)**: Una biblioteca de Java para computación matemática avanzada. Trata expresiones algebraicas como objetos de primera clase, álgebra lineal (matrices/vectores 2D/3D), geometría, estadística y árboles de expresiones evaluables. Es el motor simbólico detrás de MathUtils Studio.
 *   **[MiniJWS](https://github.com/blacknoize404/MiniJWS)**: Un framework de servidor HTTP ligero y modular construido desde cero en Java 25. Incluye enrutamiento, middleware, servicio de archivos estáticos y extracción de metadatos de APKs de Android.
+*   **[BI.Windows.Shell](https://github.com/blacknoize404/BI.Windows.Shell)**: Integración con la shell de Windows desde Java, sin código nativo propio (Foreign Function & Memory API de Java 25). Modo oscuro para la barra de título y menús clásicos, y el menú contextual nativo del Explorador con todos los verbos del sistema y extensiones de terceros.
 *   **Pingmaster**: Aplicación multiplataforma desarrollada en Java utilizando JavaFX para monitorizar el estado de servidores remotos. Genera notificaciones en tiempo real cuando el estado de acceso cambia o si se cae la conexión.
 *   **Schedu**: Aplicación multiplataforma para la gestión de horarios escolares y agenda personal, equipada con actualizaciones automáticas desde la nube.
 *   **Dímelo**: Plataforma web diseñada para mejorar la visibilidad y accesibilidad de los negocios locales, cerrando la brecha entre propietarios y clientes mediante la digitalización.
@@ -41,6 +43,10 @@ MiniJWS, a parte de servir como un servidor funcional, fue construido como una i
 4.  **Desmitificación del Middleware:** Cómo se construyen las características de seguridad (CORS, Rate Limit) y rendimiento (Gzip).
 
 Es un recurso excelente para ver conceptos de redes y programación de nivel universitario aplicados en un proyecto del mundo real.
+
+### **[barnesinside libros](https://github.com/blacknoize404/barnesinside-libros)**
+
+Colección versionada en PDF de mis cursos y compendios docentes (Java desde cero, matemática discreta, guías de ingreso y más), publicada por releases y disponible también en [barnesinside.is-a.dev/cursos](https://barnesinside.is-a.dev/cursos/).
 
 ## Logros
 
@@ -94,6 +100,9 @@ Es un recurso excelente para ver conceptos de redes y programación de nivel uni
 ## Contacto
 
 <p align="center">
+  <a href="https://barnesinside.is-a.dev">
+    <img src="https://img.shields.io/badge/Web-barnesinside.is--a.dev-2EA44F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Sitio Web">
+  </a>
   <a href="https://www.linkedin.com/in/barnes404/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Barnés">
   </a>
